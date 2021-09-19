@@ -49,6 +49,7 @@ function isStudentExist(text) {
   return false
 }
 
+//Create a event handler for button in sheet
 function button1(){
   addToHistory(2);
 }
