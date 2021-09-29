@@ -6,5 +6,5 @@ Home page: [App Script](https://developers.google.com/apps-script)
 Some sample for Google Sheets
 - Search *text* from a column [*click me*](codesamples/search.gs)
 
-## Project
-- [Google Sheets automate adding log](projects/ggsheets-automate-adding-log.gs)
+## Projects
+- [Google Sheets automate adding log](projects/ggsheets-automate-adding-log.gs): Auto adding data from sheets to another sheets for archive!!!
