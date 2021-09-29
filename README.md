@@ -1,18 +1,10 @@
-# Automated adding log into Google Sheets using Google Appscripts
-A small project using Google Apps Script to add the information into the spreadsheet as automated adding log
+# Google App Script
+Apps Script lets you do more with Google, all on a modern JavaScript platform in the cloud. Build solutions to boost your collaboration and productivity.
+Home page: [App Script](https://developers.google.com/apps-script)
 
-# Description
-This project is made for the students censorship.
+## Code samples
+Some sample for Google Sheets
+- Search *text* from a column [](codesample/search.gs)
 
-Generally, the flow of the project:
-- User use Google Sheets to check student data by student ID.
-- The Sheets filter data from the hidden sheets (only admin)
-- When the Sheets return, User have to add the infomation to history (log) by click on the button
-- The button will run the script and add the data into history sheet (student infomation, timestamp, user email)
-
-I will illustrate by video or gif later ^^
-
-# Illustration
-
-# Code sample
-This is [the code sample](/addlog.gs)
+## Project
+- [Google Sheets automate adding log](project/ggsheets-automate-adding-log)
