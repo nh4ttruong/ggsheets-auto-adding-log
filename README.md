@@ -4,7 +4,7 @@ Home page: [App Script](https://developers.google.com/apps-script)
 
 ## Code samples
 Some sample for Google Sheets
-- Search *text* from a column [](codesample/search.gs)
+- Search *text* from a column [*click me*](codesamples/search.gs)
 
 ## Project
-- [Google Sheets automate adding log](project/ggsheets-automate-adding-log)
+- [Google Sheets automate adding log](projects/ggsheets-automate-adding-log.gs)
